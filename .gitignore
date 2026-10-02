@@ -1,0 +1,13 @@
+# Папки и файлы IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Скомпилированные файлы Maven
+target/
+out/
+
+# Временные файлы
+*.log
+*.class
